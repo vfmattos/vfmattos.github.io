@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Sistema de Tarefas",
+      "image": "./assets/Sistema_de_Tarefas.jpg",
+      "tags": ["C#", "ASP.NET Core MVC", "API", "Entity Framewok", "MySql"],
+      "link": "https://github.com/vfmattos/SistemaDeTarefas"
+    },
+    {
+      "name": "Ambiente de Gestão Acadêmica (Em andamento)",
+      "image": "./assets/ProjetoAGA.jpg",
+      "tags": ["C#", "ASP.NET Core MVC", "HTML", "BootStrap", "Entity Framewok", "MySql"],
+      "link": "https://github.com/vfmattos/ProjetoAGA"
+    },
+    {
+      "name": "CRUD Simples em NodeJS",
+      "image": "./assets/Crud_NodeJS.jpg",
+      "tags": ["NodeJS", "Express", "MongoDB", "HTML"],
+      "link": "https://github.com/vfmattos/Simple-Node-Crud"
+    },
+    {
+        "name": "Simples Feed de Notícias em JavaScript",
+        "image": "./assets/Feed.jpg",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "link": "https://github.com/vfmattos/Feed-de-Noticias"
+      }
+]
